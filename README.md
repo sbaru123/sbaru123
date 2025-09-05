@@ -8,6 +8,8 @@
 - [Resume](link-to-your-resume.pdf)  
 
 ## Featured Projects
-- [Beam API (Backend)](https://github.com/sbaru123/beamapi) – Node.js + MySQL backend for energy analysis  
-- [Beam Web (Frontend)](https://github.com/sbaru123/beamweb) – React frontend with multi-page forms + state management  
 - [Beam App (Overview)](https://github.com/sbaru123/beam-app) – Project hub linking frontend + backend
+- [Beam Web (Frontend)](https://github.com/sbaru123/beamweb) – React frontend with multi-page forms + state management  
+- [Beam API (Backend)](https://github.com/sbaru123/beamapi) – Node.js + MySQL backend for energy analysis  
+
+
