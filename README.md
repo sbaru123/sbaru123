@@ -5,7 +5,7 @@
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/suhaan-baru-347881321/)  
-- [Resume](link-to-your-resume.pdf)  
+- [Resume](Suhaan_Baru_Resume.pdf)  
 
 ## Featured Projects
 - [Beam App (Overview)](https://github.com/sbaru123/beam-app) – Project hub linking frontend + backend
